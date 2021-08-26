@@ -1,5 +1,10 @@
 # Laboratorio-1P3
 # INTEGRANTES
+Vanessa Cayambe
+
+Alejandra Beltrán
+
+Kevin Barrera
 # MARCO TEORICO
 # PROCEDIMIENTO
 # RESPUESTA A INTERROGANTES
