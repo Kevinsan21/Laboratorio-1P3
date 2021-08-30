@@ -5,6 +5,8 @@ Vanessa Cayambe
 Alejandra Beltrán
 
 Kevin Barrera
+# TEMA
+INDUCTOR Y CAPACITORES
 # MARCO TEORICO
 # PROCEDIMIENTO
 # RESPUESTA A INTERROGANTES
