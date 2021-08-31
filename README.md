@@ -21,22 +21,21 @@ INDUCTOR Y CAPACITORES
 ![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/figura1.PNG)
 
 ![image](https://user-images.githubusercontent.com/84421020/131543439-04b25d1b-413f-4d79-bfae-2cebc557651f.png)
-
 0,1
+
 ![image](https://user-images.githubusercontent.com/84421020/131543490-f41bbae3-6984-4a0b-97ea-511388922b47.png)
-
 10
+
 ![image](https://user-images.githubusercontent.com/84421020/131543527-c6eb643c-8fdb-4552-994b-a4af9a5e72bf.png)
-
 50
+
 ![image](https://user-images.githubusercontent.com/84421020/131543568-4cc08d46-41f0-4773-b271-94904bab5ce9.png)
-
 100
+
 ![image](https://user-images.githubusercontent.com/84421020/131543596-94ca44e5-863c-4480-b243-03a8b1590cdf.png)
-
 500
-![image](https://user-images.githubusercontent.com/84421020/131543619-cb36c792-adae-4dbd-99ab-4953f72f89cb.png)
 
+![image](https://user-images.githubusercontent.com/84421020/131543619-cb36c792-adae-4dbd-99ab-4953f72f89cb.png)
 1000
 
 
