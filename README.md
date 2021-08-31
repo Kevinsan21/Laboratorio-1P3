@@ -60,6 +60,46 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/84421020/131543368-2231da29-c607-40d6-bc1c-d5456f877639.png)
 
+2.- Construya el circuito mostrado en la Figura 2
+
+![image](https://user-images.githubusercontent.com/84421020/131544417-2a29ff69-aff1-4c4f-b70b-e45eda4c1adb.png)
+
+![image](https://user-images.githubusercontent.com/84421020/131544555-917a3d0e-877c-48d0-81d0-9e2a799c5fd5.png)
+
+0,1
+
+![image](https://user-images.githubusercontent.com/84421020/131544577-1b8a5552-b2e8-4955-aae4-5312288eee26.png)
+
+10
+
+![image](https://user-images.githubusercontent.com/84421020/131544595-5435a4a9-e7ec-4862-bb3e-a63682a4bb7c.png)
+
+50
+
+![image](https://user-images.githubusercontent.com/84421020/131544618-697ece6b-c0ce-482a-8973-d5b3d2e2ab7d.png)
+
+100
+
+![image](https://user-images.githubusercontent.com/84421020/131544642-253467d4-75c8-4d76-aa5c-e2bcd2fc98ff.png)
+
+500
+
+![image](https://user-images.githubusercontent.com/84421020/131544666-360d8a6c-f1d9-4d75-b135-10e5c2d8a75e.png)
+
+100
+
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+![image](https://user-images.githubusercontent.com/84421020/131544867-420d21ce-9a0a-4b19-8403-2eacda5cff38.png)
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
 # RESPUESTA A INTERROGANTES
 ![CIRUITOSLAB7](https://user-images.githubusercontent.com/84421370/131540727-e4ab0476-eb73-4494-852c-f0c6fce837ee.jpg)
 
