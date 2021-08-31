@@ -8,6 +8,7 @@ Kevin Barrera
 # TEMA
 INDUCTOR Y CAPACITORES
 # MARCO TEORICO
+![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/inductoresycapacitores.PNG)
 # PROCEDIMIENTO
 # RESPUESTA A INTERROGANTES
 # CONCLUSIONES
