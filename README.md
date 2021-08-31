@@ -16,6 +16,13 @@ INDUCTOR Y CAPACITORES
 ![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/inductoresycapacitores.PNG)
 ![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/inductor.PNG)
 # PROCEDIMIENTO
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 # RESPUESTA A INTERROGANTES
 # VIDEO 
 https://www.youtube.com/watch?v=0TDM3Ju5lSY
