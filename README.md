@@ -86,7 +86,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/84421020/131544666-360d8a6c-f1d9-4d75-b135-10e5c2d8a75e.png)
 
-100
+1000
 
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
