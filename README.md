@@ -7,6 +7,11 @@ Alejandra Beltrán
 Kevin Barrera
 # TEMA
 INDUCTOR Y CAPACITORES
+# OBJETIVOS
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+- Familiarizarse con el uso de instrumentos de medida.
 # MARCO TEORICO
 ![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/inductoresycapacitores.PNG)
 ![](https://github.com/Kevinsan21/Laboratorio-1P3/blob/main/inductor.PNG)
