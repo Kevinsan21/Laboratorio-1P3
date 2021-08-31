@@ -29,6 +29,8 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 # RESPUESTA A INTERROGANTES
+![CIRUITOSLAB7](https://user-images.githubusercontent.com/84421370/131540727-e4ab0476-eb73-4494-852c-f0c6fce837ee.jpg)
+
 # VIDEO 
 https://www.youtube.com/watch?v=0TDM3Ju5lSY
 # CONCLUSIONES
